@@ -5,7 +5,7 @@ another_empty_list = list()
 
 weekdays + first_names
 
-list("hello") #['h', 'e', 'l', 'l', 'o']
+list("hello")  # ['h', 'e', 'l', 'l', 'o']
 
 
 list('cat')
